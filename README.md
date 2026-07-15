@@ -69,4 +69,4 @@ The date in the generated file depends on the day the program is run.
 
 ## Learning Note
 
-This repository is a learning project completed while following a guided Python automation exercise.
+This repository is a learning project completed while following a guided Python automation exercise (I like to do smthng crzy haha so here we go with first ill be doing more).
